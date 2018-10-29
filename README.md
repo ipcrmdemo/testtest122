@@ -26,7 +26,7 @@ tests using Maven:
 ```
 $ ./mvnw test
 ```
-
+Test
 ---
 
 Created by [Atomist][atomist].
